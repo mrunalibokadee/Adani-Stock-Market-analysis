@@ -1,1 +1,1 @@
-# Adani-Stock-Market-analysis
+Introducing Adani Stock Market Analysis Dashboard, meticulously crafted to cover the dynamic period from 2016 to 2023. Dive into a treasure trove of historical data, charting Adani's journey through market fluctuations. Gain invaluable insights, spot trends, and fine-tune investment strategy with precision. Dashboard equips with the tools to navigate the complexities of the stock market.
